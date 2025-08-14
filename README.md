@@ -1,4 +1,4 @@
-# certifications
+# Certifications
 List of the certifications I've passed/I'm currently working toward
 
 # Cloud & Tech Certifications Overview
@@ -35,16 +35,22 @@ List of the certifications I've passed/I'm currently working toward
    - Study Hours: ~30-40 hours
    - Status: Not started
    - Info: Foundational knowledge of Google Cloud capabilities
+  
+6. **Google Data Analytics Professional Certificate**
+   - [Official Link](https://www.coursera.org/professional-certificates/google-data-analytics)
+   - Study Hours: ~180 hours (6 months at 10 hours/week)
+   - Status: ✅ Passed March 2024
+   - Info: Comprehensive data analytics program covering data cleaning, analysis, visualization, R programming, SQL
 
 ## Amazon Internal
-6. **Mathematical Fundamentals for Machine Learning (MLU)**
+7. **Mathematical Fundamentals for Machine Learning (MLU)**
    - Link: Internal Amazon Resource
    - Study Hours: ~40-60 hours
    - Status: Not started
    - Info: Covers essential math concepts for ML including statistics, calculus, and linear algebra
   
 ## Cisco Certification
-7. **Cisco Certificate in Ethical Hacking**
+8. **Cisco Certificate in Ethical Hacking**
    - [Official Link](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/ethical-hacker/index.html)
    - Study Hours: ~80-100 hours
    - Status: Not started
